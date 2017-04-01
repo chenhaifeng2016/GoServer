@@ -1,0 +1,5 @@
+定义二进制消息
+使用二进制消息传输
+使用worker pool
+
+https://gobyexample.com/
